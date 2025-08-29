@@ -1,5 +1,5 @@
 """
-Activity 2: Polymorphism Challenge
+Assignment 2: Polymorphism Challenge
 -----------------------------------
 This file demonstrates polymorphism:
 - Different classes with the same method name (move)
