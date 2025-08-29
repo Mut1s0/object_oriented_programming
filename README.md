@@ -22,6 +22,7 @@ This repository contains solutions for **OOP (Object-Oriented Programming)**, co
 
 **Run the files:**
 git clone 'https://github.com/Mut1s0/object_oriented_programming.git'
+
 cd <repo-folder>
 
 python class.py
@@ -33,6 +34,7 @@ python class.py
 
 **Run the files:**
 git clone 'https://github.com/Mut1s0/object_oriented_programming.git'
+
 cd <repo-folder>
 
 python polymorphism.py
