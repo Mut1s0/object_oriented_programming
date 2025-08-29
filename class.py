@@ -54,4 +54,4 @@ if __name__ == "__main__":
 
     print(phone2.info())
     phone2.take_photo()
-    phone2.unlock_phone("0000")  # Wrong code
+    phone2.unlock_phone("0000")   # Wrong code
